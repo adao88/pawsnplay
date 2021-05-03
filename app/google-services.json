@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133446351376",
+    "project_id": "pawsnplay-47934",
+    "storage_bucket": "pawsnplay-47934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133446351376:android:ba5c2484613014615e6895",
+        "android_client_info": {
+          "package_name": "com.example.pawsplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133446351376-173msjek8cv9udmqsti86abum18qh74e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1gckrCMKrDisVb1bWvgsaW6TIstQ9vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133446351376-173msjek8cv9udmqsti86abum18qh74e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
